@@ -1,4 +1,4 @@
-package com.uds.pizzaria.event.listner;
+package com.uds.pizzaria.event.listener;
 
 import com.uds.pizzaria.event.RecursoCriadoEvent;
 import java.net.URI;
@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 @Component
-public class RecursoCriadoListner implements ApplicationListener<RecursoCriadoEvent> {
+public class RecursoCriadoListener implements ApplicationListener<RecursoCriadoEvent> {
 
     @Override
     public void onApplicationEvent(RecursoCriadoEvent recursoCriadoEvent) {

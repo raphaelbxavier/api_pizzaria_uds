@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.uds.pizzaria.config.PizzariaProperty",
+      "name": "pizzaria",
+      "type": "com.uds.pizzaria.config.PizzariaProperty"
+    }
+  ],
+  "properties": []
+}

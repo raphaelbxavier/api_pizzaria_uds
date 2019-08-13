@@ -1,0 +1,5 @@
+com\uds\pizzaria\resource\PizzaResourceTest.class
+com\uds\pizzaria\resource\AdicionalResourceTest.class
+com\uds\pizzaria\service\PizzaServiceTest.class
+com\uds\pizzaria\resource\SaborResourceTest.class
+com\uds\pizzaria\resource\TamanhoResourceTest.class
